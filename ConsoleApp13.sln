@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "training_patternt_builder", "ConsoleApp13\training_patternt_builder.csproj", "{420112B8-AF7C-45B1-8488-D79716DA5F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "training_patternt_builder2", "training_patternt_builder2\training_patternt_builder2.csproj", "{D0C484A5-13D5-436D-A780-4DB6ABA0C3C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420112B8-AF7C-45B1-8488-D79716DA5F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420112B8-AF7C-45B1-8488-D79716DA5F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420112B8-AF7C-45B1-8488-D79716DA5F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420112B8-AF7C-45B1-8488-D79716DA5F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C484A5-13D5-436D-A780-4DB6ABA0C3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C484A5-13D5-436D-A780-4DB6ABA0C3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C484A5-13D5-436D-A780-4DB6ABA0C3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C484A5-13D5-436D-A780-4DB6ABA0C3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
